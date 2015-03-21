@@ -1,5 +1,5 @@
 /**
- * Class to represent a problem state for Cannibals and Missionaries
+ * Class to represent a problem state
  * 
  * @author kumaran
  * 
