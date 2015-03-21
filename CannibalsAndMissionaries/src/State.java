@@ -1,5 +1,5 @@
 /**
- * Class to represent a problem state <m&c>s
+ * Class to represent a problem state 
  * 
  * @author kumaran
  * 
